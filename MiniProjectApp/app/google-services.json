@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "897860374817",
+    "firebase_url": "https://project-d8c39-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "project-d8c39",
+    "storage_bucket": "project-d8c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897860374817:android:e97ae375bc45ef5eafae60",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7hMsnuol3qB9nHdYcX1X42Y6Fk5Gjzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
